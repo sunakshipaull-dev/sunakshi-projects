@@ -31,3 +31,13 @@ A beginner-friendly Python project for managing student records.
 4. Delete student
 5. Update student
 6. Exit
+
+## ▶️ How to Run
+
+1. Install Python on your computer.
+2. Download or clone this repository.
+3. Open the `student-management-system` folder.
+4. Run the program using:
+
+```bash
+python main.py
